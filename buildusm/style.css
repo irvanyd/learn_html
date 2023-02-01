@@ -1,0 +1,15 @@
+#header {
+    font-style: italic;  
+}
+#border{
+	border-style: double;
+    border-width: 9px;
+    padding: 4em;
+}
+#footer {
+    font-size: medium;
+    font-weight: 200;    
+    font-family: century;
+    padding: 2mm;
+    color: white;
+}
